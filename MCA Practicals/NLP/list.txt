@@ -1,0 +1,2 @@
+1. Ambiguity, 2. TokenPOSNER, 3. Morphological Parser, 4. Ngram, 
+5. LeskWSD, 6. DependencyParsing, 7. Pagerank, 8. Sentiment

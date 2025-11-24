@@ -1,0 +1,4 @@
+1. PolicyEvaluationMC, 2. ValueIterationMDP , 3. OptimalPolicyMDP
+4. QLearningMDP, 5. TD0 , 6. TDLambda, 7. SARSA , 8. QLearning
+9. DQN, 10. ReinforceBaseline, 11. ReinforceAdvantage
+12. MCPredictionAndControl, 13. FunctionApproximation
