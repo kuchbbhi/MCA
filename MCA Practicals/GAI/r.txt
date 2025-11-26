@@ -1,0 +1,16 @@
+langchain-core
+langchain-google-genai
+langchain-community==0.3.29
+langchain-ollama==0.3.7
+langchain-openai==0.3.31
+detoxify==0.5.2
+google-ai-generativelanguage==0.6.18
+google-api-core==2.25.1
+google-auth==2.40.3
+google-genai
+huggingface-hub
+requests
+transformers
+numpy==2.3.2
+ollama==0.5.3
+openai==1.101.0
